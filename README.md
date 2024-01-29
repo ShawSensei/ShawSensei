@@ -53,24 +53,23 @@
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
 </p>
-<p align="right"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawSensei&theme=radical&border=7F3FBF&background=0D1117" alt="Sensei's GitHub streak"/>
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawSensei&theme=radical&border=7F3FBF&background=0D1117" alt="Sensei's GitHub streak" padding= 200px /> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
   <a href="https://github.com/ShawSensei">
   </a>
 </p>
 
-<p align="right">
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+<p align="center">
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="50" height="50"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="55" height="45"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="50" height="50"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="50" height="50"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="50" height="50"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="50" height="50"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="50" height="50"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="50" height="50"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="50" height="50"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="50" height="50"/>
 </p>
 
 
