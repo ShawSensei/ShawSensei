@@ -53,9 +53,14 @@
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
 </p>
-<p align="right"> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" /> </p>
+<p align="right"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawSensei&theme=radical&border=7F3FBF&background=0D1117" alt="Sensei's GitHub streak"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
+  <a href="https://github.com/ShawSensei">
+  </a>
+</p>
 
-<div align="right">
+<p align="right">
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
@@ -66,14 +71,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
-
-<br>
-<p align="center">
-  <a href="https://github.com/ShawSensei">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawSensei&theme=radical&border=7F3FBF&background=0D1117" alt="Sensei's GitHub streak"/>
-  </a>
 </p>
+
+
+
+
+
 
 <p align="center">
   <a href="https://github.com/ShawSensei">
