@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmad Shawkat Wasit</h1>
-<h3 align="center">I am a Graduated in computer science and engineering from BRAC University.</h3>
+<h3 align="center">I am a Graduat in computer science and engineering from BRAC University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawsensei&label=Profile%20views&color=0e75b6&style=flat" alt="shawsensei" /> </p>
 
