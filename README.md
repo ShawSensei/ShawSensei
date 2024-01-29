@@ -3,7 +3,7 @@
 
 <p align="middle"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawsensei&label=Profile%20views&color=0e75b6&style=flat" alt="shawsensei" /> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -85,10 +85,14 @@
 <br>
 
 <a> 
-    <a href="https://github.com/ShawSensei"><img alt="Sensei's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ShawSensei&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ShawSensei"><img alt="Sensei's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ShawSensei&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ShawSensei"><img alt="Sensei's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ShawSensei&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> <a href="https://github.com/ShawSensei"><img alt="Sensei's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ShawSensei&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
 ![ShawSensei's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShawSensei&custom_title=Sensei's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawsensei&label=Profile%20views&color=0e75b6&style=flat" alt="shawsensei" />  
+  <a href="https://github.com/AshFahim?tab=followers"><img src="https://img.shields.io/github/followers/AshFahim?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+</p>
+ 
