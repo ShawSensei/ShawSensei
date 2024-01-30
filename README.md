@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmad Shawkat Wasit</h1>
-<h3 align="center">I am a Graduate in computer science and engineering from BRAC University.</h3>
+<h3 align="center">I am a Graduate in Computer Science and Engineering from BRAC University.</h3>
 
 <p align="middle"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
