@@ -44,9 +44,9 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShawSensei&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F8D866&icon_color=F8D866&text_color=c9d1d9&ring_color=7F3FBF" height="165" />
+<img src="https://github-readme-stats-ten-self-16.vercel.app/api?username=ShawSensei&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F8D866&icon_color=F8D866&text_color=c9d1d9&ring_color=7F3FBF" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawSensei&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F8D866&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats-ten-self-16.vercel.app/api/top-langs/?username=ShawSensei&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F8D866&text_color=c9d1d9" height="165" />
 
 </div>
 
