@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,100:F8D866&height=190&section=header&text=Ahmad%20Shawkat%20Wasit&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F8D866&center=true&vCenter=true&width=520&lines=Flutter+%26+Cross-Platform+Developer;Native+Android+(Kotlin)+%26+iOS+(Swift);Full-Stack+with+Spring+Boot+%26+Next.js" alt="Typing SVG" />
