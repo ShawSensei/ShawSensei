@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com?user=ShawSensei&hide_border=true&border_radius=10&background=0D1117&stroke=7F3FBF&ring=F8D866&fire=F8D866&currStreakLabel=F8D866&sideLabels=F8D866&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&sideDates=c9d1d9" />
+<img src="https://streak-stats.demolab.com?user=ShawSensei&hide_border=true&border_radius=10&background=0D1117&stroke=7F3FBF&ring=F8D866&fire=F8D866&currStreakLabel=F8D866&sideLabels=F8D866&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&sideDates=c9d1d9" />
 
 <br><br>
 
